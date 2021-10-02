@@ -1,0 +1,7 @@
+venv/
+*__pychache__
+secrets.ini
+backup/
+*.pid
+*.sock
+.vscode/
